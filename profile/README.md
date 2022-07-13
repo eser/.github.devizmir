@@ -19,4 +19,4 @@ Dev İzmir'in GitHub hesabına hoşgeldin.
 ### GitHub'da bulabileceğin kaynaklar:
 
 - [Manifesto](https://github.com/devizmir/.github/blob/main/MANIFEST.md)
-- [Katkıcı Ahdi Topluluk Sözleşmesi]([CODE_OF_CONDUCT.md](https://github.com/devizmir/.github/blob/main/CODE_OF_CONDUCT.md))
+- [Katkıcı Ahdi Topluluk Sözleşmesi](https://github.com/devizmir/.github/blob/main/CODE_OF_CONDUCT.md)
