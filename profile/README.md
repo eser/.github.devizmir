@@ -2,6 +2,7 @@
 
 Dev İzmir'in GitHub hesabına hoşgeldin.
 
+
 **Aşağıdaki kaynakları değerlendirmek isteyebilirsin:**
 
 🙋‍♀️ Dev İzmir, İzmir'de yerel bir geliştirici topluluğudur.  
@@ -11,3 +12,9 @@ Dev İzmir'in GitHub hesabına hoşgeldin.
 👩‍💻 Etkinliklerimiz için [Twitter](https://twitter.com/_devizmir) hesabımızı takip edebilirsiniz.  
 
 🍿 Ayrıca [devizmir.com](https://devizmir.com) web sitemizde de bir takım içerikler oluşturmaya çalışıyoruz.  
+
+
+**GitHub'da bulabileceğin kaynaklar:**
+
+- [Manifesto](../MANIFEST.md)
+- [Katkıcı Ahdi Topluluk Sözleşmesi](../CODE_OF_CONDUCT.md)
