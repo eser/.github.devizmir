@@ -10,5 +10,6 @@
  * İsteyen herkes Dev İzmir topluluğuna katılabilir veya çıkabilir.
  * İsteyen herkes Dev İzmir'den sınırsız talepte bulunabilir, bu talepleri karşılayan bir yönetim yoktur, talepler topluluk tarafından karşılanır ve değerlendirilir.
  * Dev İzmir özgür bir platform ve bu platformda özgürce bu felsefeyi benimsemiş özgür insanlardan oluşan bir topluluktur.
+ * Dev İzmir'e ait alt politika ve kurallar Dev İzmir'in web sitesi ve GitHub hesabı altında yer alır.
  * Bu bildirgede yazan tüm maddeler ve uygulamalar Dev İzmir'un varlığından bu yana bir çok kez tekrar eden ve sorunsuz bir yaklaşımdır.
  * Bu manifesto'nun temeli [Jstanbul Bildirgesi](https://gist.github.com/f/743451d8e35b82705c60)nden alınmıştır.
